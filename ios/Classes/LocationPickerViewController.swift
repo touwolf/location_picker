@@ -105,7 +105,7 @@ class LocationPickerViewController: UIViewController, GMSMapViewDelegate, CLLoca
     {
         var response : [String : AnyObject?] = [:]
         response["latitude"] = selectedPosition.latitude as AnyObject
-        response["longitudde"] = selectedPosition.longitude as AnyObject
+        response["longitude"] = selectedPosition.longitude as AnyObject
         
         if let geo : GMSReverseGeocodeResult = geocoderResult
         {

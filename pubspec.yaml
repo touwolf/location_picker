@@ -1,6 +1,6 @@
 name: location_picker
 description: A location picker plugin for Flutter.
-version: 0.0.1
+version: 0.0.12
 author: Touwolf Technologies<alejandro.sanchez@touwolf.com>
 homepage: https://github.com/touwolf/location_picker
 

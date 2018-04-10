@@ -58,6 +58,20 @@ Takes the following optional parameters for configuration:
       String iosBackButtonText;
       String iosSelectButtonText;
 ```
+## Response
+
+The response is a Map<dynamic,dynamic> that contains the following fields that can be null:
+
+                                 ["latitude"] double
+                                 ["longitude"] double
+                                 ["administrativeArea"] String
+                                 ["country"] String
+                                 ["locality"] String
+                                 ["subLocality"] String
+                                 ["postalCode"] String
+                                 ["thoroughfare"] String
+                                 ["line0"] String
+                                 ["line1"] String
 
 ## Importing 
 

@@ -8,7 +8,7 @@ As the name implies, this is a component for getting a desired location from the
 It handles location permissions requests, a native map view and it return a map with all the data.
 It also uses reversed GeoCoding for info associated with the selected location.     
 
-<img src="/android.jpg" width="300">    <img src="/ios.jpeg" width="300">
+<img src="https://raw.githubusercontent.com/touwolf/location_picker/master/android.jpg" width="300">    <img src="https://raw.githubusercontent.com/touwolf/location_picker/master/ios.jpeg" width="300">
 
 
 ## Example

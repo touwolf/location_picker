@@ -10,7 +10,6 @@ It also uses reversed GeoCoding for info associated with the selected location.
 
 <img src="https://raw.githubusercontent.com/touwolf/location_picker/master/android.jpg" width="300">    <img src="https://raw.githubusercontent.com/touwolf/location_picker/master/ios.jpeg" width="300">
 
-
 ## Example
 
  ```dart
@@ -75,9 +74,9 @@ The response is a Map<dynamic,dynamic> that contains the following fields that c
 
 ## Importing 
 
-1. Add this line to your pubspec.yaml
+1. Create a Flutter project with Swift support.
 
-        location_picker: ^0.0.1
+2. Import the library
 
 ## Installing
 

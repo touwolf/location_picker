@@ -99,6 +99,16 @@ The response is a Map<dynamic,dynamic> that contains the following fields that c
      android:value="YOUR API KEY"/>
     ```
      
+3. Add the map Activity to your app's manifest
+
+    ```xml
+   <activity
+        android:name="com.jumpstart.locationpicker.LocationPickerActivity"
+        android:screenOrientation="portrait"
+        android:theme="@style/Base.Theme.AppCompat.Light.DarkActionBar">
+    </activity>
+    ```
+
 ### IOS
 
 1. Request permissions in your project's info.plist
